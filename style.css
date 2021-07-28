@@ -1,0 +1,43 @@
+body{
+background-color:
+}
+
+h1{
+color: gold;
+text-align: center;
+font-family: cursive;
+font-size: 45;
+background-color: rgb(252, 252, 232);
+}
+
+h4{
+  color: black;
+  text-align: center;
+  font-family: arial;
+  font-size: 30;
+  background-color: ;
+}
+
+.Navbar{
+ background-color: #D3D3D3;
+ overflow: hidden;
+}
+
+.Navbar a{
+float: left;
+color: black;
+text-align: center;
+padding: 14px;
+text-decoration: none;
+font-size: 17px;
+}
+
+.Navbar a:hover{
+background-color : black;
+color : white;
+}
+
+.navbar a.active{
+  background:gray;
+  color :white;
+}

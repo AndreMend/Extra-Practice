@@ -14,3 +14,8 @@ image.height = "150";
 document.getElementById("resultText").innerHTML = result;
 document.getElementById("resultText").appendChild(image);
 }
+
+function display(){
+  var text = "This is the text I want to display when the button is clicked";
+  document.getElementbyId("displayText").innerHTML = text;
+}

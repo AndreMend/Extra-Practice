@@ -77,11 +77,20 @@ button:hover{
 
 .column{
   float : left;
-  width : 37%;
+  width : 33.3%;
 }
 
 .row:after{
   content: "";
   display: table;
   clear: both;
+}
+
+h5{
+color:black;
+float: left;
+text-align: left;
+font-family: arial;
+font-size: ;
+background-color: none;
 }

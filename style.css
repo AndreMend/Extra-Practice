@@ -41,3 +41,29 @@ color : white;
   background:gray;
   color :white;
 }
+
+button{
+  background-color: blueviolet;
+  border: none;
+  color: white;
+  padding: 15px 20px;
+  text-align: center;
+  display: inline-block;
+  font-size: 12px;
+  border-radius: 10px;
+}
+
+button:hover{
+  background-color: mistyrose;
+  color: black;
+  border: 1px solid black;
+  transition-duration: .5s;
+}
+
+box 2{
+width: 30px;
+height: 15;
+margin-right: auto;
+margin-left: auto;
+display: circle;
+}

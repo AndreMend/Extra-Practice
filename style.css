@@ -70,3 +70,18 @@ button:hover{
 .background-c{
   background-color: beige;
 }
+
+.background-m{
+  background-color: beige;
+}
+
+.column{
+  float : left;
+  width : 37%;
+}
+
+.row:after{
+  content: "";
+  display: table;
+  clear: both;
+}

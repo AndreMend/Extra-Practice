@@ -19,7 +19,7 @@ h4{
 }
 
 .Navbar{
- background-color; none;
+ background-color: none;
  overflow: hidden;
 }
 
@@ -87,6 +87,7 @@ button:hover{
 }
 
 .column Logo{
-  float: center;
-  width: 100%;
+  height: 100vh;
+  width: 100vw;
+  background-size: cover;
 }

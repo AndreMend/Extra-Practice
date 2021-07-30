@@ -19,12 +19,12 @@ h4{
 }
 
 .Navbar{
- background-color:white;
+ background-color; none;
  overflow: hidden;
 }
 
 .Navbar a{
-float: left;
+float: center;
 color: black;
 text-align: center;
 padding: 14px;
@@ -86,10 +86,7 @@ button:hover{
   clear: both;
 }
 
-.Logo{
-  image-align: center;
+.column Logo{
   float: center;
-  width: "75";
-  height: "75";
-  background-color: none;
+  width: 100%;
 }
